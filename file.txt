@@ -1,2 +1,2 @@
 Main
-This is from folder1
+This is from folder one
