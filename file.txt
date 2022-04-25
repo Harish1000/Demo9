@@ -1,2 +1,3 @@
 Main
 This is from folder one
+This is folder2
